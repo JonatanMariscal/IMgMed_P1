@@ -5,7 +5,7 @@
 matplotlib == 3.2.0
 
 # Prac1_E1.py: 11
-numpy == 1.18.1
+numpy == 1.22.0
 
 # Prac1_E1.py: 10
 pandas == 1.0.2
